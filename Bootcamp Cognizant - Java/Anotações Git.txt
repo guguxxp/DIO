@@ -1,0 +1,7 @@
+'git init' - iniciar repositório
+'git status' - checar status de modificações no projeto local
+'git add *' ou 'git add .' ou 'git add -A' - validar informações alteradas no repositório (preparação para o commit)
+'git commit -m "comentário"' - comando para enviar o commit local das alterações feitas no repositório
+'git clone "link"' - clonar repositório do servidor para repositório local
+'git push origin master ou main' - comando para enviar as alterações do local para o serviço em nuvem
+'git pull' - comando para puxar alterações feitas alterações para o repositório local
