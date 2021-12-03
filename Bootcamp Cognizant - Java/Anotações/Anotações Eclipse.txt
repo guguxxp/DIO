@@ -1,0 +1,8 @@
+Atalhos
+
+Ctrl + N  = Criar novo projeto
+Ctrl + Shift + F = Formatar alinhamento
+Ctrl + Shift + / = Comentar em bloco
+Ctrl + 7 = Comentar linhas selecionadas
+Ctrl + Shift + O = Importar dependências
+Ctrl + Espaço = Completar comandos
