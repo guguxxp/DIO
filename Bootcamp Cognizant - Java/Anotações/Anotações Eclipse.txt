@@ -6,3 +6,17 @@ Ctrl + Shift + / = Comentar em bloco
 Ctrl + 7 = Comentar linhas selecionadas
 Ctrl + Shift + O = Importar dependências
 Ctrl + Espaço = Completar comandos
+Ctrl + Alt + Seta = duplicar linhas selecionadas
+Ctrl + 2 + L = Assign uma variável já com o time especificado no método
+Ctrl + Shift + B = Breakpoint na linha selecionada
+Ctrl + Shift + T = Buscar
+Ctrl + W = Fechar uma Aba
+Ctrl + Shift + W = Fechar todas as abas
+
+
+Atalhos Modo Debug
+F8= continuar sem executar o debug
+Ctrl + F2 = Terminar o programa sem executar o restante do código
+F5 = Entrar no método
+F6 = Executar linha a linha
+F7 = voltar um passo
