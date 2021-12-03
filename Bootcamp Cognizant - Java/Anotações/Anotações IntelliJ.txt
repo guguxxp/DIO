@@ -1,0 +1,29 @@
+Abreviações
+
+main = cria o método main
+sout = cria o System.out.println()
+
+
+Atalhos gerais
+Ctrl + Shift + F10 = configurar código e rodar
+Shift + F10 = rodar código já configurado
+Alt + Insert = abre menu de criação de novos objetos do código
+Ctrl + Shift + / = comentar em bloco linhas selecionadas
+Ctrl + / = comentar linhas selecionadas individualmente com //
+Alt + Enter = importar dependências
+Ctrl + Alt + O = limpar dependências não utilizadas
+Ctrl + Y = apagar linha inteira
+Shift + F6 = refatorar
+Ctrl + Alt + L = alinhar código
+Ctrl + D = Duplicar linha para baixo
+Ctrl + Shift + seta = mover a linha pra cima ou baixo
+Ctrl + K = Commit
+Ctrl + Shift + K = Push
+Ctrl + Alt + V = criar variavel
+Ctrl + N = procurar por itens dentro do projeto
+Ctrl + F = Fechar aba
+
+ 
+
+
+
