@@ -8,3 +8,28 @@ Nome: nome do método
 Parâmetro: parâmetros que o método receberá
 Exceções: exceções que pode lançar
 Corpo: código dentro das chaves ou código vazio
+
+--------------------------------------------------------
+
+Pode-se chamar um método através de classe ou objeto.
+
+--------------------------------------------------------
+
+Assinatura do método é o conjunto de nome + parâmetros
+
+
+--------------------------------------------------------
+
+Boas práticas
+
+nomes curtos e descritivos
+notação camelo 
+entre 80 e 120 linhas (criar métodos auxiliares para ajudar na redução de código)
+evitar lista de parâmetros longas
+visibilidades adequadas
+
+--------------------------------------------------------
+
+Sobrecarga
+
+Capacidade de usar o mesmo método para diferentes contextos. Feito na forma de alterar os parâmetros recebidos pelo método, mas preservando o mesmo nome.
