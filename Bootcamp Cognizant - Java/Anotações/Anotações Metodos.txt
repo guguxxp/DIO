@@ -1,0 +1,10 @@
+Criação
+
+Visibilidade: public, protected ou private
+Tipo: concreto ou abstrato
+Modificador: static ou final
+Retorno: tipo de dado ou void
+Nome: nome do método
+Parâmetro: parâmetros que o método receberá
+Exceções: exceções que pode lançar
+Corpo: código dentro das chaves ou código vazio
